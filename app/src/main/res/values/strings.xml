@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lec2Demo</string>
+    <string name="txtTitle">Buschetta</string>
+    <string name="imgBruschetta">Bruschetta</string>
+    <string name="txtShowRecipe">Show Recipe</string>
+</resources>
